@@ -70,7 +70,7 @@ button:hover {
 }
 
 button:active {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 a {
