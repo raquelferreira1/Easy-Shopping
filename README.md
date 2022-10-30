@@ -1,7 +1,7 @@
 <h1 align="center"> EASY SHOPPING </h1>
 
 <p align="center"> Esse projeto desenvolvi para um desafio proposto pela plataforma <a href="https://rodolfomori.com.br/devclub"/> DevClub</a>. É uma página inicial de um site comercial. 
-<br> Nele pude consolidar os conhecimentos sobre responsividade. Projeto responsivo para desktop e mobile. <a href="https://raquelferreira1.github.io/Easy-Shopping/"/> Confira aqui :point_left:	</a></p>
+<br> Nele pude consolidar os conhecimentos sobre responsividade. Projeto responsivo para desktop e mobile. <a href="https://raquelferreira1.github.io/Easy-Shopping/"/> <br> Confira aqui :point_left:	</a></p>
 
 <h3 align="center"> :hammer_and_wrench: Tecnologias utilizadas: 
 <br><br>
