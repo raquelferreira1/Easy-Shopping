@@ -1,8 +1,7 @@
 <h1 align="center"> EASY SHOPPING </h1>
 
-<p align="center"> Página inicial de um site comercial. 
-<br> Nele pude consolidar os conhecimentos sobre responsividade, onde 
-<br> o site é adaptável em diferentes telas: computadores, tablets e celulares. <a href="https://raquelferreira1.github.io/Easy-Shopping/"/> <br> Confira aqui :point_left:	</a></p>
+<h4 align="center"> Home page de loja. Página adaptável para telas menores. 
+<a href="https://raquelferreira1.github.io/Easy-Shopping/"/> <br> Veja como ficou :point_left:	</a></h4>
 
 <h3 align="center"> :hammer_and_wrench: Tecnologias utilizadas: 
 <br><br>
@@ -12,7 +11,6 @@
 <img src="https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt=logo-vs-code/> </h3>
 <br>
 
-<img src="https://github.com/raquelferreira1/Projeto-Easy-Shopping-Responsivo/blob/master/celular.png?raw=true">
 
 <img src="https://github.com/raquelferreira1/Projeto-Easy-Shopping-Responsivo/blob/master/desktop.png?raw=true">
 
